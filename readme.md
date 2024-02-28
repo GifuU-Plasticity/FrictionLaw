@@ -33,5 +33,8 @@ DEFORM<sup>TM</sup>-2D ver.12 (SFTC) is only available at this time.
 To be published
 
 # Acknowledgement <a name="Acknowledge"></a>
+- Prof. Kozo Osakada
+- Dr. Osamu Kada
 - Dr. Tatsuhiro Suzuki
 - Dr. W.Z. Dong
+- Prof. Yasuharu Yoshikawa
